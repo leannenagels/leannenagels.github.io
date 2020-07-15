@@ -10,11 +10,11 @@
 @media (max-width: 1199px){ .u-section-1 {min-height: 655px}
 .u-section-1 .u-layout-wrap-1 {width: 751px; margin-right: auto; margin-left: calc(((100% - 1140px) / 2) + 100px)}
 .u-section-1 .u-layout-cell-1 {min-height: 625px}
-.u-section-1 .u-container-layout-1 {padding-top: 0; padding-bottom: 0}
+.u-section-1 .u-container-layout-1 {padding-top: 0; padding-bottom: 0; padding-right: 10px; padding-left: 10px}
 .u-section-1 .u-text-1 {font-size: 3rem; text-transform: none; font-family: Roboto, sans-serif; font-weight: normal}
 .u-section-1 .u-text-2 {width: auto; margin-right: -80px}
 .u-section-1 .u-text-3 {font-size: 0.875rem; width: auto; margin-right: -120px; height: 459px}
-.u-section-1 .u-shape-1 {margin-left: calc(((100% - 1140px) / 2) + -91px)} }
+.u-section-1 .u-shape-1 {margin-left: calc(((100% - 1140px) / 2) + + 19px)} }
 
 @media (max-width: 991px){ .u-section-1 .u-layout-wrap-1 {width: 701px; margin-left: calc(((100% - 1140px) / 2) + 210px)}
 .u-section-1 .u-layout-cell-1 {min-height: 593px}
