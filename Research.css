@@ -36,10 +36,3 @@
 .u-section-3 .u-shape-1 {width: 229px; background-image: none; height: 975px; margin: 19px auto 0 0}
 .u-section-3 .u-text-1 {font-size: 1.875rem; line-height: 1; letter-spacing: normal; font-family: Allura; font-weight: 400; margin: -944px -135px 0 254px}
 .u-section-3 .u-text-2 {font-size: 1.125rem; font-style: italic; margin: 25px 24px 60px 254px} 
-
-@media (max-width: 1199px){ .u-section-3 {min-height: 987px}
-.u-section-3 .u-text-1 {margin-left: 0; margin-right: 0}
-.u-section-3 .u-text-2 {font-size: 0.875rem; margin-right: 0; margin-left: 78px} }
-
-@media (max-width: 991px){ .u-section-3 .u-text-2 {margin-left: 0} }.u-section-4 {background-image: none}
-.u-section-4 .u-sheet-1 {min-height: 144px}
