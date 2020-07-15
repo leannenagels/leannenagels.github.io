@@ -14,7 +14,7 @@
 .u-section-1 .u-text-1 {font-size: 3rem; text-transform: none; font-family: Roboto, sans-serif; font-weight: normal}
 .u-section-1 .u-text-2 {width: auto; margin-right: -80px}
 .u-section-1 .u-text-3 {font-size: 0.875rem; width: auto; margin-right: -120px; height: 459px}
-.u-section-1 .u-shape-1 {margin-left: calc(((100% - 1140px) / 2) + + 19px)} }
+.u-section-1 .u-shape-1 {margin-left: calc(((100% - 1140px) / 2) + 19px)} }
 
 @media (max-width: 991px){ .u-section-1 .u-layout-wrap-1 {width: 701px; margin-left: calc(((100% - 1140px) / 2) + 210px)}
 .u-section-1 .u-layout-cell-1 {min-height: 593px}
